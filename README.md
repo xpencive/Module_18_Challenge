@@ -24,7 +24,7 @@ Then update new_block function to include the sender, receivee, and ammpunt info
 ### Step 4 
 Test the Financial Transaction Ledger by adding multiple block to the chain. Review the new chains created. 
 
-(New_blocks.png)
+!(New_blocks.png)
 
 
 Verify the Blockchain validation proceess is runnning successfully. 
